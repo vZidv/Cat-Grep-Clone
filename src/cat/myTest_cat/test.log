@@ -1,0 +1,2064 @@
+SUCCESS -b test_files/text1.txt
+SUCCESS -b test_files/text2.txt
+SUCCESS -b test_files/text3.txt
+SUCCESS -b test_files/text4_hard.txt
+SUCCESS -b test_files/text6_firstEmpty.txt
+SUCCESS -b test_files/text7.txt
+SUCCESS -b test_files/text_long.txt
+SUCCESS -b test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -e test_files/text1.txt
+SUCCESS -e test_files/text2.txt
+SUCCESS -e test_files/text3.txt
+SUCCESS -e test_files/text4_hard.txt
+SUCCESS -e test_files/text6_firstEmpty.txt
+SUCCESS -e test_files/text7.txt
+SUCCESS -e test_files/text_long.txt
+SUCCESS -e test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -n test_files/text1.txt
+SUCCESS -n test_files/text2.txt
+SUCCESS -n test_files/text3.txt
+SUCCESS -n test_files/text4_hard.txt
+SUCCESS -n test_files/text6_firstEmpty.txt
+SUCCESS -n test_files/text7.txt
+SUCCESS -n test_files/text_long.txt
+SUCCESS -n test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -s test_files/text1.txt
+SUCCESS -s test_files/text2.txt
+SUCCESS -s test_files/text3.txt
+SUCCESS -s test_files/text4_hard.txt
+SUCCESS -s test_files/text6_firstEmpty.txt
+SUCCESS -s test_files/text7.txt
+SUCCESS -s test_files/text_long.txt
+SUCCESS -s test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -t test_files/text1.txt
+SUCCESS -t test_files/text2.txt
+SUCCESS -t test_files/text3.txt
+SUCCESS -t test_files/text4_hard.txt
+SUCCESS -t test_files/text6_firstEmpty.txt
+SUCCESS -t test_files/text7.txt
+SUCCESS -t test_files/text_long.txt
+SUCCESS -t test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -v test_files/text1.txt
+SUCCESS -v test_files/text2.txt
+SUCCESS -v test_files/text3.txt
+SUCCESS -v test_files/text4_hard.txt
+SUCCESS -v test_files/text6_firstEmpty.txt
+SUCCESS -v test_files/text7.txt
+SUCCESS -v test_files/text_long.txt
+SUCCESS -v test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -T test_files/text1.txt
+SUCCESS -T test_files/text2.txt
+SUCCESS -T test_files/text3.txt
+SUCCESS -T test_files/text4_hard.txt
+SUCCESS -T test_files/text6_firstEmpty.txt
+SUCCESS -T test_files/text7.txt
+SUCCESS -T test_files/text_long.txt
+SUCCESS -T test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -E test_files/text1.txt
+SUCCESS -E test_files/text2.txt
+SUCCESS -E test_files/text3.txt
+SUCCESS -E test_files/text4_hard.txt
+SUCCESS -E test_files/text6_firstEmpty.txt
+SUCCESS -E test_files/text7.txt
+SUCCESS -E test_files/text_long.txt
+SUCCESS -E test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -be test_files/text1.txt
+SUCCESS -be test_files/text2.txt
+SUCCESS -be test_files/text3.txt
+SUCCESS -be test_files/text4_hard.txt
+SUCCESS -be test_files/text6_firstEmpty.txt
+SUCCESS -be test_files/text7.txt
+SUCCESS -be test_files/text_long.txt
+SUCCESS -be test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bn test_files/text1.txt
+SUCCESS -bn test_files/text2.txt
+SUCCESS -bn test_files/text3.txt
+SUCCESS -bn test_files/text4_hard.txt
+SUCCESS -bn test_files/text6_firstEmpty.txt
+SUCCESS -bn test_files/text7.txt
+SUCCESS -bn test_files/text_long.txt
+SUCCESS -bn test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bs test_files/text1.txt
+SUCCESS -bs test_files/text2.txt
+SUCCESS -bs test_files/text3.txt
+SUCCESS -bs test_files/text4_hard.txt
+SUCCESS -bs test_files/text6_firstEmpty.txt
+SUCCESS -bs test_files/text7.txt
+SUCCESS -bs test_files/text_long.txt
+SUCCESS -bs test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bt test_files/text1.txt
+SUCCESS -bt test_files/text2.txt
+SUCCESS -bt test_files/text3.txt
+SUCCESS -bt test_files/text4_hard.txt
+SUCCESS -bt test_files/text6_firstEmpty.txt
+SUCCESS -bt test_files/text7.txt
+SUCCESS -bt test_files/text_long.txt
+SUCCESS -bt test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bv test_files/text1.txt
+SUCCESS -bv test_files/text2.txt
+SUCCESS -bv test_files/text3.txt
+SUCCESS -bv test_files/text4_hard.txt
+SUCCESS -bv test_files/text6_firstEmpty.txt
+SUCCESS -bv test_files/text7.txt
+SUCCESS -bv test_files/text_long.txt
+SUCCESS -bv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bT test_files/text1.txt
+SUCCESS -bT test_files/text2.txt
+SUCCESS -bT test_files/text3.txt
+SUCCESS -bT test_files/text4_hard.txt
+SUCCESS -bT test_files/text6_firstEmpty.txt
+SUCCESS -bT test_files/text7.txt
+SUCCESS -bT test_files/text_long.txt
+SUCCESS -bT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bE test_files/text1.txt
+SUCCESS -bE test_files/text2.txt
+SUCCESS -bE test_files/text3.txt
+SUCCESS -bE test_files/text4_hard.txt
+SUCCESS -bE test_files/text6_firstEmpty.txt
+SUCCESS -bE test_files/text7.txt
+SUCCESS -bE test_files/text_long.txt
+SUCCESS -bE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -en test_files/text1.txt
+SUCCESS -en test_files/text2.txt
+SUCCESS -en test_files/text3.txt
+SUCCESS -en test_files/text4_hard.txt
+SUCCESS -en test_files/text6_firstEmpty.txt
+SUCCESS -en test_files/text7.txt
+SUCCESS -en test_files/text_long.txt
+SUCCESS -en test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -es test_files/text1.txt
+SUCCESS -es test_files/text2.txt
+SUCCESS -es test_files/text3.txt
+SUCCESS -es test_files/text4_hard.txt
+SUCCESS -es test_files/text6_firstEmpty.txt
+SUCCESS -es test_files/text7.txt
+SUCCESS -es test_files/text_long.txt
+SUCCESS -es test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -et test_files/text1.txt
+SUCCESS -et test_files/text2.txt
+SUCCESS -et test_files/text3.txt
+SUCCESS -et test_files/text4_hard.txt
+SUCCESS -et test_files/text6_firstEmpty.txt
+SUCCESS -et test_files/text7.txt
+SUCCESS -et test_files/text_long.txt
+SUCCESS -et test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ev test_files/text1.txt
+SUCCESS -ev test_files/text2.txt
+SUCCESS -ev test_files/text3.txt
+SUCCESS -ev test_files/text4_hard.txt
+SUCCESS -ev test_files/text6_firstEmpty.txt
+SUCCESS -ev test_files/text7.txt
+SUCCESS -ev test_files/text_long.txt
+SUCCESS -ev test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -eT test_files/text1.txt
+SUCCESS -eT test_files/text2.txt
+SUCCESS -eT test_files/text3.txt
+SUCCESS -eT test_files/text4_hard.txt
+SUCCESS -eT test_files/text6_firstEmpty.txt
+SUCCESS -eT test_files/text7.txt
+SUCCESS -eT test_files/text_long.txt
+SUCCESS -eT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -eE test_files/text1.txt
+SUCCESS -eE test_files/text2.txt
+SUCCESS -eE test_files/text3.txt
+SUCCESS -eE test_files/text4_hard.txt
+SUCCESS -eE test_files/text6_firstEmpty.txt
+SUCCESS -eE test_files/text7.txt
+SUCCESS -eE test_files/text_long.txt
+SUCCESS -eE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ns test_files/text1.txt
+SUCCESS -ns test_files/text2.txt
+SUCCESS -ns test_files/text3.txt
+SUCCESS -ns test_files/text4_hard.txt
+SUCCESS -ns test_files/text6_firstEmpty.txt
+SUCCESS -ns test_files/text7.txt
+SUCCESS -ns test_files/text_long.txt
+SUCCESS -ns test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nt test_files/text1.txt
+SUCCESS -nt test_files/text2.txt
+SUCCESS -nt test_files/text3.txt
+SUCCESS -nt test_files/text4_hard.txt
+SUCCESS -nt test_files/text6_firstEmpty.txt
+SUCCESS -nt test_files/text7.txt
+SUCCESS -nt test_files/text_long.txt
+SUCCESS -nt test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nv test_files/text1.txt
+SUCCESS -nv test_files/text2.txt
+SUCCESS -nv test_files/text3.txt
+SUCCESS -nv test_files/text4_hard.txt
+SUCCESS -nv test_files/text6_firstEmpty.txt
+SUCCESS -nv test_files/text7.txt
+SUCCESS -nv test_files/text_long.txt
+SUCCESS -nv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nT test_files/text1.txt
+SUCCESS -nT test_files/text2.txt
+SUCCESS -nT test_files/text3.txt
+SUCCESS -nT test_files/text4_hard.txt
+SUCCESS -nT test_files/text6_firstEmpty.txt
+SUCCESS -nT test_files/text7.txt
+SUCCESS -nT test_files/text_long.txt
+SUCCESS -nT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nE test_files/text1.txt
+SUCCESS -nE test_files/text2.txt
+SUCCESS -nE test_files/text3.txt
+SUCCESS -nE test_files/text4_hard.txt
+SUCCESS -nE test_files/text6_firstEmpty.txt
+SUCCESS -nE test_files/text7.txt
+SUCCESS -nE test_files/text_long.txt
+SUCCESS -nE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -st test_files/text1.txt
+SUCCESS -st test_files/text2.txt
+SUCCESS -st test_files/text3.txt
+SUCCESS -st test_files/text4_hard.txt
+SUCCESS -st test_files/text6_firstEmpty.txt
+SUCCESS -st test_files/text7.txt
+SUCCESS -st test_files/text_long.txt
+SUCCESS -st test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -sv test_files/text1.txt
+SUCCESS -sv test_files/text2.txt
+SUCCESS -sv test_files/text3.txt
+SUCCESS -sv test_files/text4_hard.txt
+SUCCESS -sv test_files/text6_firstEmpty.txt
+SUCCESS -sv test_files/text7.txt
+SUCCESS -sv test_files/text_long.txt
+SUCCESS -sv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -sT test_files/text1.txt
+SUCCESS -sT test_files/text2.txt
+SUCCESS -sT test_files/text3.txt
+SUCCESS -sT test_files/text4_hard.txt
+SUCCESS -sT test_files/text6_firstEmpty.txt
+SUCCESS -sT test_files/text7.txt
+SUCCESS -sT test_files/text_long.txt
+SUCCESS -sT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -sE test_files/text1.txt
+SUCCESS -sE test_files/text2.txt
+SUCCESS -sE test_files/text3.txt
+SUCCESS -sE test_files/text4_hard.txt
+SUCCESS -sE test_files/text6_firstEmpty.txt
+SUCCESS -sE test_files/text7.txt
+SUCCESS -sE test_files/text_long.txt
+SUCCESS -sE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -tv test_files/text1.txt
+SUCCESS -tv test_files/text2.txt
+SUCCESS -tv test_files/text3.txt
+SUCCESS -tv test_files/text4_hard.txt
+SUCCESS -tv test_files/text6_firstEmpty.txt
+SUCCESS -tv test_files/text7.txt
+SUCCESS -tv test_files/text_long.txt
+SUCCESS -tv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -tT test_files/text1.txt
+SUCCESS -tT test_files/text2.txt
+SUCCESS -tT test_files/text3.txt
+SUCCESS -tT test_files/text4_hard.txt
+SUCCESS -tT test_files/text6_firstEmpty.txt
+SUCCESS -tT test_files/text7.txt
+SUCCESS -tT test_files/text_long.txt
+SUCCESS -tT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -tE test_files/text1.txt
+SUCCESS -tE test_files/text2.txt
+SUCCESS -tE test_files/text3.txt
+SUCCESS -tE test_files/text4_hard.txt
+SUCCESS -tE test_files/text6_firstEmpty.txt
+SUCCESS -tE test_files/text7.txt
+SUCCESS -tE test_files/text_long.txt
+SUCCESS -tE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -vT test_files/text1.txt
+SUCCESS -vT test_files/text2.txt
+SUCCESS -vT test_files/text3.txt
+SUCCESS -vT test_files/text4_hard.txt
+SUCCESS -vT test_files/text6_firstEmpty.txt
+SUCCESS -vT test_files/text7.txt
+SUCCESS -vT test_files/text_long.txt
+SUCCESS -vT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -vE test_files/text1.txt
+SUCCESS -vE test_files/text2.txt
+SUCCESS -vE test_files/text3.txt
+SUCCESS -vE test_files/text4_hard.txt
+SUCCESS -vE test_files/text6_firstEmpty.txt
+SUCCESS -vE test_files/text7.txt
+SUCCESS -vE test_files/text_long.txt
+SUCCESS -vE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -TE test_files/text1.txt
+SUCCESS -TE test_files/text2.txt
+SUCCESS -TE test_files/text3.txt
+SUCCESS -TE test_files/text4_hard.txt
+SUCCESS -TE test_files/text6_firstEmpty.txt
+SUCCESS -TE test_files/text7.txt
+SUCCESS -TE test_files/text_long.txt
+SUCCESS -TE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ben test_files/text1.txt
+SUCCESS -ben test_files/text2.txt
+SUCCESS -ben test_files/text3.txt
+SUCCESS -ben test_files/text4_hard.txt
+SUCCESS -ben test_files/text6_firstEmpty.txt
+SUCCESS -ben test_files/text7.txt
+SUCCESS -ben test_files/text_long.txt
+SUCCESS -ben test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bes test_files/text1.txt
+SUCCESS -bes test_files/text2.txt
+SUCCESS -bes test_files/text3.txt
+SUCCESS -bes test_files/text4_hard.txt
+SUCCESS -bes test_files/text6_firstEmpty.txt
+SUCCESS -bes test_files/text7.txt
+SUCCESS -bes test_files/text_long.txt
+SUCCESS -bes test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bet test_files/text1.txt
+SUCCESS -bet test_files/text2.txt
+SUCCESS -bet test_files/text3.txt
+SUCCESS -bet test_files/text4_hard.txt
+SUCCESS -bet test_files/text6_firstEmpty.txt
+SUCCESS -bet test_files/text7.txt
+SUCCESS -bet test_files/text_long.txt
+SUCCESS -bet test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bev test_files/text1.txt
+SUCCESS -bev test_files/text2.txt
+SUCCESS -bev test_files/text3.txt
+SUCCESS -bev test_files/text4_hard.txt
+SUCCESS -bev test_files/text6_firstEmpty.txt
+SUCCESS -bev test_files/text7.txt
+SUCCESS -bev test_files/text_long.txt
+SUCCESS -bev test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -beT test_files/text1.txt
+SUCCESS -beT test_files/text2.txt
+SUCCESS -beT test_files/text3.txt
+SUCCESS -beT test_files/text4_hard.txt
+SUCCESS -beT test_files/text6_firstEmpty.txt
+SUCCESS -beT test_files/text7.txt
+SUCCESS -beT test_files/text_long.txt
+SUCCESS -beT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -beE test_files/text1.txt
+SUCCESS -beE test_files/text2.txt
+SUCCESS -beE test_files/text3.txt
+SUCCESS -beE test_files/text4_hard.txt
+SUCCESS -beE test_files/text6_firstEmpty.txt
+SUCCESS -beE test_files/text7.txt
+SUCCESS -beE test_files/text_long.txt
+SUCCESS -beE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bns test_files/text1.txt
+SUCCESS -bns test_files/text2.txt
+SUCCESS -bns test_files/text3.txt
+SUCCESS -bns test_files/text4_hard.txt
+SUCCESS -bns test_files/text6_firstEmpty.txt
+SUCCESS -bns test_files/text7.txt
+SUCCESS -bns test_files/text_long.txt
+SUCCESS -bns test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnt test_files/text1.txt
+SUCCESS -bnt test_files/text2.txt
+SUCCESS -bnt test_files/text3.txt
+SUCCESS -bnt test_files/text4_hard.txt
+SUCCESS -bnt test_files/text6_firstEmpty.txt
+SUCCESS -bnt test_files/text7.txt
+SUCCESS -bnt test_files/text_long.txt
+SUCCESS -bnt test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnv test_files/text1.txt
+SUCCESS -bnv test_files/text2.txt
+SUCCESS -bnv test_files/text3.txt
+SUCCESS -bnv test_files/text4_hard.txt
+SUCCESS -bnv test_files/text6_firstEmpty.txt
+SUCCESS -bnv test_files/text7.txt
+SUCCESS -bnv test_files/text_long.txt
+SUCCESS -bnv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnT test_files/text1.txt
+SUCCESS -bnT test_files/text2.txt
+SUCCESS -bnT test_files/text3.txt
+SUCCESS -bnT test_files/text4_hard.txt
+SUCCESS -bnT test_files/text6_firstEmpty.txt
+SUCCESS -bnT test_files/text7.txt
+SUCCESS -bnT test_files/text_long.txt
+SUCCESS -bnT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnE test_files/text1.txt
+SUCCESS -bnE test_files/text2.txt
+SUCCESS -bnE test_files/text3.txt
+SUCCESS -bnE test_files/text4_hard.txt
+SUCCESS -bnE test_files/text6_firstEmpty.txt
+SUCCESS -bnE test_files/text7.txt
+SUCCESS -bnE test_files/text_long.txt
+SUCCESS -bnE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bst test_files/text1.txt
+SUCCESS -bst test_files/text2.txt
+SUCCESS -bst test_files/text3.txt
+SUCCESS -bst test_files/text4_hard.txt
+SUCCESS -bst test_files/text6_firstEmpty.txt
+SUCCESS -bst test_files/text7.txt
+SUCCESS -bst test_files/text_long.txt
+SUCCESS -bst test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bsv test_files/text1.txt
+SUCCESS -bsv test_files/text2.txt
+SUCCESS -bsv test_files/text3.txt
+SUCCESS -bsv test_files/text4_hard.txt
+SUCCESS -bsv test_files/text6_firstEmpty.txt
+SUCCESS -bsv test_files/text7.txt
+SUCCESS -bsv test_files/text_long.txt
+SUCCESS -bsv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bsT test_files/text1.txt
+SUCCESS -bsT test_files/text2.txt
+SUCCESS -bsT test_files/text3.txt
+SUCCESS -bsT test_files/text4_hard.txt
+SUCCESS -bsT test_files/text6_firstEmpty.txt
+SUCCESS -bsT test_files/text7.txt
+SUCCESS -bsT test_files/text_long.txt
+SUCCESS -bsT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bsE test_files/text1.txt
+SUCCESS -bsE test_files/text2.txt
+SUCCESS -bsE test_files/text3.txt
+SUCCESS -bsE test_files/text4_hard.txt
+SUCCESS -bsE test_files/text6_firstEmpty.txt
+SUCCESS -bsE test_files/text7.txt
+SUCCESS -bsE test_files/text_long.txt
+SUCCESS -bsE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -btv test_files/text1.txt
+SUCCESS -btv test_files/text2.txt
+SUCCESS -btv test_files/text3.txt
+SUCCESS -btv test_files/text4_hard.txt
+SUCCESS -btv test_files/text6_firstEmpty.txt
+SUCCESS -btv test_files/text7.txt
+SUCCESS -btv test_files/text_long.txt
+SUCCESS -btv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -btT test_files/text1.txt
+SUCCESS -btT test_files/text2.txt
+SUCCESS -btT test_files/text3.txt
+SUCCESS -btT test_files/text4_hard.txt
+SUCCESS -btT test_files/text6_firstEmpty.txt
+SUCCESS -btT test_files/text7.txt
+SUCCESS -btT test_files/text_long.txt
+SUCCESS -btT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -btE test_files/text1.txt
+SUCCESS -btE test_files/text2.txt
+SUCCESS -btE test_files/text3.txt
+SUCCESS -btE test_files/text4_hard.txt
+SUCCESS -btE test_files/text6_firstEmpty.txt
+SUCCESS -btE test_files/text7.txt
+SUCCESS -btE test_files/text_long.txt
+SUCCESS -btE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bvT test_files/text1.txt
+SUCCESS -bvT test_files/text2.txt
+SUCCESS -bvT test_files/text3.txt
+SUCCESS -bvT test_files/text4_hard.txt
+SUCCESS -bvT test_files/text6_firstEmpty.txt
+SUCCESS -bvT test_files/text7.txt
+SUCCESS -bvT test_files/text_long.txt
+SUCCESS -bvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bvE test_files/text1.txt
+SUCCESS -bvE test_files/text2.txt
+SUCCESS -bvE test_files/text3.txt
+SUCCESS -bvE test_files/text4_hard.txt
+SUCCESS -bvE test_files/text6_firstEmpty.txt
+SUCCESS -bvE test_files/text7.txt
+SUCCESS -bvE test_files/text_long.txt
+SUCCESS -bvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bTE test_files/text1.txt
+SUCCESS -bTE test_files/text2.txt
+SUCCESS -bTE test_files/text3.txt
+SUCCESS -bTE test_files/text4_hard.txt
+SUCCESS -bTE test_files/text6_firstEmpty.txt
+SUCCESS -bTE test_files/text7.txt
+SUCCESS -bTE test_files/text_long.txt
+SUCCESS -bTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ens test_files/text1.txt
+SUCCESS -ens test_files/text2.txt
+SUCCESS -ens test_files/text3.txt
+SUCCESS -ens test_files/text4_hard.txt
+SUCCESS -ens test_files/text6_firstEmpty.txt
+SUCCESS -ens test_files/text7.txt
+SUCCESS -ens test_files/text_long.txt
+SUCCESS -ens test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ent test_files/text1.txt
+SUCCESS -ent test_files/text2.txt
+SUCCESS -ent test_files/text3.txt
+SUCCESS -ent test_files/text4_hard.txt
+SUCCESS -ent test_files/text6_firstEmpty.txt
+SUCCESS -ent test_files/text7.txt
+SUCCESS -ent test_files/text_long.txt
+SUCCESS -ent test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -env test_files/text1.txt
+SUCCESS -env test_files/text2.txt
+SUCCESS -env test_files/text3.txt
+SUCCESS -env test_files/text4_hard.txt
+SUCCESS -env test_files/text6_firstEmpty.txt
+SUCCESS -env test_files/text7.txt
+SUCCESS -env test_files/text_long.txt
+SUCCESS -env test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enT test_files/text1.txt
+SUCCESS -enT test_files/text2.txt
+SUCCESS -enT test_files/text3.txt
+SUCCESS -enT test_files/text4_hard.txt
+SUCCESS -enT test_files/text6_firstEmpty.txt
+SUCCESS -enT test_files/text7.txt
+SUCCESS -enT test_files/text_long.txt
+SUCCESS -enT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enE test_files/text1.txt
+SUCCESS -enE test_files/text2.txt
+SUCCESS -enE test_files/text3.txt
+SUCCESS -enE test_files/text4_hard.txt
+SUCCESS -enE test_files/text6_firstEmpty.txt
+SUCCESS -enE test_files/text7.txt
+SUCCESS -enE test_files/text_long.txt
+SUCCESS -enE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -est test_files/text1.txt
+SUCCESS -est test_files/text2.txt
+SUCCESS -est test_files/text3.txt
+SUCCESS -est test_files/text4_hard.txt
+SUCCESS -est test_files/text6_firstEmpty.txt
+SUCCESS -est test_files/text7.txt
+SUCCESS -est test_files/text_long.txt
+SUCCESS -est test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -esv test_files/text1.txt
+SUCCESS -esv test_files/text2.txt
+SUCCESS -esv test_files/text3.txt
+SUCCESS -esv test_files/text4_hard.txt
+SUCCESS -esv test_files/text6_firstEmpty.txt
+SUCCESS -esv test_files/text7.txt
+SUCCESS -esv test_files/text_long.txt
+SUCCESS -esv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -esT test_files/text1.txt
+SUCCESS -esT test_files/text2.txt
+SUCCESS -esT test_files/text3.txt
+SUCCESS -esT test_files/text4_hard.txt
+SUCCESS -esT test_files/text6_firstEmpty.txt
+SUCCESS -esT test_files/text7.txt
+SUCCESS -esT test_files/text_long.txt
+SUCCESS -esT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -esE test_files/text1.txt
+SUCCESS -esE test_files/text2.txt
+SUCCESS -esE test_files/text3.txt
+SUCCESS -esE test_files/text4_hard.txt
+SUCCESS -esE test_files/text6_firstEmpty.txt
+SUCCESS -esE test_files/text7.txt
+SUCCESS -esE test_files/text_long.txt
+SUCCESS -esE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -etv test_files/text1.txt
+SUCCESS -etv test_files/text2.txt
+SUCCESS -etv test_files/text3.txt
+SUCCESS -etv test_files/text4_hard.txt
+SUCCESS -etv test_files/text6_firstEmpty.txt
+SUCCESS -etv test_files/text7.txt
+SUCCESS -etv test_files/text_long.txt
+SUCCESS -etv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -etT test_files/text1.txt
+SUCCESS -etT test_files/text2.txt
+SUCCESS -etT test_files/text3.txt
+SUCCESS -etT test_files/text4_hard.txt
+SUCCESS -etT test_files/text6_firstEmpty.txt
+SUCCESS -etT test_files/text7.txt
+SUCCESS -etT test_files/text_long.txt
+SUCCESS -etT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -etE test_files/text1.txt
+SUCCESS -etE test_files/text2.txt
+SUCCESS -etE test_files/text3.txt
+SUCCESS -etE test_files/text4_hard.txt
+SUCCESS -etE test_files/text6_firstEmpty.txt
+SUCCESS -etE test_files/text7.txt
+SUCCESS -etE test_files/text_long.txt
+SUCCESS -etE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -evT test_files/text1.txt
+SUCCESS -evT test_files/text2.txt
+SUCCESS -evT test_files/text3.txt
+SUCCESS -evT test_files/text4_hard.txt
+SUCCESS -evT test_files/text6_firstEmpty.txt
+SUCCESS -evT test_files/text7.txt
+SUCCESS -evT test_files/text_long.txt
+SUCCESS -evT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -evE test_files/text1.txt
+SUCCESS -evE test_files/text2.txt
+SUCCESS -evE test_files/text3.txt
+SUCCESS -evE test_files/text4_hard.txt
+SUCCESS -evE test_files/text6_firstEmpty.txt
+SUCCESS -evE test_files/text7.txt
+SUCCESS -evE test_files/text_long.txt
+SUCCESS -evE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -eTE test_files/text1.txt
+SUCCESS -eTE test_files/text2.txt
+SUCCESS -eTE test_files/text3.txt
+SUCCESS -eTE test_files/text4_hard.txt
+SUCCESS -eTE test_files/text6_firstEmpty.txt
+SUCCESS -eTE test_files/text7.txt
+SUCCESS -eTE test_files/text_long.txt
+SUCCESS -eTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nst test_files/text1.txt
+SUCCESS -nst test_files/text2.txt
+SUCCESS -nst test_files/text3.txt
+SUCCESS -nst test_files/text4_hard.txt
+SUCCESS -nst test_files/text6_firstEmpty.txt
+SUCCESS -nst test_files/text7.txt
+SUCCESS -nst test_files/text_long.txt
+SUCCESS -nst test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nsv test_files/text1.txt
+SUCCESS -nsv test_files/text2.txt
+SUCCESS -nsv test_files/text3.txt
+SUCCESS -nsv test_files/text4_hard.txt
+SUCCESS -nsv test_files/text6_firstEmpty.txt
+SUCCESS -nsv test_files/text7.txt
+SUCCESS -nsv test_files/text_long.txt
+SUCCESS -nsv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nsT test_files/text1.txt
+SUCCESS -nsT test_files/text2.txt
+SUCCESS -nsT test_files/text3.txt
+SUCCESS -nsT test_files/text4_hard.txt
+SUCCESS -nsT test_files/text6_firstEmpty.txt
+SUCCESS -nsT test_files/text7.txt
+SUCCESS -nsT test_files/text_long.txt
+SUCCESS -nsT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nsE test_files/text1.txt
+SUCCESS -nsE test_files/text2.txt
+SUCCESS -nsE test_files/text3.txt
+SUCCESS -nsE test_files/text4_hard.txt
+SUCCESS -nsE test_files/text6_firstEmpty.txt
+SUCCESS -nsE test_files/text7.txt
+SUCCESS -nsE test_files/text_long.txt
+SUCCESS -nsE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ntv test_files/text1.txt
+SUCCESS -ntv test_files/text2.txt
+SUCCESS -ntv test_files/text3.txt
+SUCCESS -ntv test_files/text4_hard.txt
+SUCCESS -ntv test_files/text6_firstEmpty.txt
+SUCCESS -ntv test_files/text7.txt
+SUCCESS -ntv test_files/text_long.txt
+SUCCESS -ntv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ntT test_files/text1.txt
+SUCCESS -ntT test_files/text2.txt
+SUCCESS -ntT test_files/text3.txt
+SUCCESS -ntT test_files/text4_hard.txt
+SUCCESS -ntT test_files/text6_firstEmpty.txt
+SUCCESS -ntT test_files/text7.txt
+SUCCESS -ntT test_files/text_long.txt
+SUCCESS -ntT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ntE test_files/text1.txt
+SUCCESS -ntE test_files/text2.txt
+SUCCESS -ntE test_files/text3.txt
+SUCCESS -ntE test_files/text4_hard.txt
+SUCCESS -ntE test_files/text6_firstEmpty.txt
+SUCCESS -ntE test_files/text7.txt
+SUCCESS -ntE test_files/text_long.txt
+SUCCESS -ntE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nvT test_files/text1.txt
+SUCCESS -nvT test_files/text2.txt
+SUCCESS -nvT test_files/text3.txt
+SUCCESS -nvT test_files/text4_hard.txt
+SUCCESS -nvT test_files/text6_firstEmpty.txt
+SUCCESS -nvT test_files/text7.txt
+SUCCESS -nvT test_files/text_long.txt
+SUCCESS -nvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nvE test_files/text1.txt
+SUCCESS -nvE test_files/text2.txt
+SUCCESS -nvE test_files/text3.txt
+SUCCESS -nvE test_files/text4_hard.txt
+SUCCESS -nvE test_files/text6_firstEmpty.txt
+SUCCESS -nvE test_files/text7.txt
+SUCCESS -nvE test_files/text_long.txt
+SUCCESS -nvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nTE test_files/text1.txt
+SUCCESS -nTE test_files/text2.txt
+SUCCESS -nTE test_files/text3.txt
+SUCCESS -nTE test_files/text4_hard.txt
+SUCCESS -nTE test_files/text6_firstEmpty.txt
+SUCCESS -nTE test_files/text7.txt
+SUCCESS -nTE test_files/text_long.txt
+SUCCESS -nTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -stv test_files/text1.txt
+SUCCESS -stv test_files/text2.txt
+SUCCESS -stv test_files/text3.txt
+SUCCESS -stv test_files/text4_hard.txt
+SUCCESS -stv test_files/text6_firstEmpty.txt
+SUCCESS -stv test_files/text7.txt
+SUCCESS -stv test_files/text_long.txt
+SUCCESS -stv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -stT test_files/text1.txt
+SUCCESS -stT test_files/text2.txt
+SUCCESS -stT test_files/text3.txt
+SUCCESS -stT test_files/text4_hard.txt
+SUCCESS -stT test_files/text6_firstEmpty.txt
+SUCCESS -stT test_files/text7.txt
+SUCCESS -stT test_files/text_long.txt
+SUCCESS -stT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -stE test_files/text1.txt
+SUCCESS -stE test_files/text2.txt
+SUCCESS -stE test_files/text3.txt
+SUCCESS -stE test_files/text4_hard.txt
+SUCCESS -stE test_files/text6_firstEmpty.txt
+SUCCESS -stE test_files/text7.txt
+SUCCESS -stE test_files/text_long.txt
+SUCCESS -stE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -svT test_files/text1.txt
+SUCCESS -svT test_files/text2.txt
+SUCCESS -svT test_files/text3.txt
+SUCCESS -svT test_files/text4_hard.txt
+SUCCESS -svT test_files/text6_firstEmpty.txt
+SUCCESS -svT test_files/text7.txt
+SUCCESS -svT test_files/text_long.txt
+SUCCESS -svT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -svE test_files/text1.txt
+SUCCESS -svE test_files/text2.txt
+SUCCESS -svE test_files/text3.txt
+SUCCESS -svE test_files/text4_hard.txt
+SUCCESS -svE test_files/text6_firstEmpty.txt
+SUCCESS -svE test_files/text7.txt
+SUCCESS -svE test_files/text_long.txt
+SUCCESS -svE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -sTE test_files/text1.txt
+SUCCESS -sTE test_files/text2.txt
+SUCCESS -sTE test_files/text3.txt
+SUCCESS -sTE test_files/text4_hard.txt
+SUCCESS -sTE test_files/text6_firstEmpty.txt
+SUCCESS -sTE test_files/text7.txt
+SUCCESS -sTE test_files/text_long.txt
+SUCCESS -sTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -tvT test_files/text1.txt
+SUCCESS -tvT test_files/text2.txt
+SUCCESS -tvT test_files/text3.txt
+SUCCESS -tvT test_files/text4_hard.txt
+SUCCESS -tvT test_files/text6_firstEmpty.txt
+SUCCESS -tvT test_files/text7.txt
+SUCCESS -tvT test_files/text_long.txt
+SUCCESS -tvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -tvE test_files/text1.txt
+SUCCESS -tvE test_files/text2.txt
+SUCCESS -tvE test_files/text3.txt
+SUCCESS -tvE test_files/text4_hard.txt
+SUCCESS -tvE test_files/text6_firstEmpty.txt
+SUCCESS -tvE test_files/text7.txt
+SUCCESS -tvE test_files/text_long.txt
+SUCCESS -tvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -tTE test_files/text1.txt
+SUCCESS -tTE test_files/text2.txt
+SUCCESS -tTE test_files/text3.txt
+SUCCESS -tTE test_files/text4_hard.txt
+SUCCESS -tTE test_files/text6_firstEmpty.txt
+SUCCESS -tTE test_files/text7.txt
+SUCCESS -tTE test_files/text_long.txt
+SUCCESS -tTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -vTE test_files/text1.txt
+SUCCESS -vTE test_files/text2.txt
+SUCCESS -vTE test_files/text3.txt
+SUCCESS -vTE test_files/text4_hard.txt
+SUCCESS -vTE test_files/text6_firstEmpty.txt
+SUCCESS -vTE test_files/text7.txt
+SUCCESS -vTE test_files/text_long.txt
+SUCCESS -vTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bens test_files/text1.txt
+SUCCESS -bens test_files/text2.txt
+SUCCESS -bens test_files/text3.txt
+SUCCESS -bens test_files/text4_hard.txt
+SUCCESS -bens test_files/text6_firstEmpty.txt
+SUCCESS -bens test_files/text7.txt
+SUCCESS -bens test_files/text_long.txt
+SUCCESS -bens test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bent test_files/text1.txt
+SUCCESS -bent test_files/text2.txt
+SUCCESS -bent test_files/text3.txt
+SUCCESS -bent test_files/text4_hard.txt
+SUCCESS -bent test_files/text6_firstEmpty.txt
+SUCCESS -bent test_files/text7.txt
+SUCCESS -bent test_files/text_long.txt
+SUCCESS -bent test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benv test_files/text1.txt
+SUCCESS -benv test_files/text2.txt
+SUCCESS -benv test_files/text3.txt
+SUCCESS -benv test_files/text4_hard.txt
+SUCCESS -benv test_files/text6_firstEmpty.txt
+SUCCESS -benv test_files/text7.txt
+SUCCESS -benv test_files/text_long.txt
+SUCCESS -benv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benT test_files/text1.txt
+SUCCESS -benT test_files/text2.txt
+SUCCESS -benT test_files/text3.txt
+SUCCESS -benT test_files/text4_hard.txt
+SUCCESS -benT test_files/text6_firstEmpty.txt
+SUCCESS -benT test_files/text7.txt
+SUCCESS -benT test_files/text_long.txt
+SUCCESS -benT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benE test_files/text1.txt
+SUCCESS -benE test_files/text2.txt
+SUCCESS -benE test_files/text3.txt
+SUCCESS -benE test_files/text4_hard.txt
+SUCCESS -benE test_files/text6_firstEmpty.txt
+SUCCESS -benE test_files/text7.txt
+SUCCESS -benE test_files/text_long.txt
+SUCCESS -benE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -best test_files/text1.txt
+SUCCESS -best test_files/text2.txt
+SUCCESS -best test_files/text3.txt
+SUCCESS -best test_files/text4_hard.txt
+SUCCESS -best test_files/text6_firstEmpty.txt
+SUCCESS -best test_files/text7.txt
+SUCCESS -best test_files/text_long.txt
+SUCCESS -best test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -besv test_files/text1.txt
+SUCCESS -besv test_files/text2.txt
+SUCCESS -besv test_files/text3.txt
+SUCCESS -besv test_files/text4_hard.txt
+SUCCESS -besv test_files/text6_firstEmpty.txt
+SUCCESS -besv test_files/text7.txt
+SUCCESS -besv test_files/text_long.txt
+SUCCESS -besv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -besT test_files/text1.txt
+SUCCESS -besT test_files/text2.txt
+SUCCESS -besT test_files/text3.txt
+SUCCESS -besT test_files/text4_hard.txt
+SUCCESS -besT test_files/text6_firstEmpty.txt
+SUCCESS -besT test_files/text7.txt
+SUCCESS -besT test_files/text_long.txt
+SUCCESS -besT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -besE test_files/text1.txt
+SUCCESS -besE test_files/text2.txt
+SUCCESS -besE test_files/text3.txt
+SUCCESS -besE test_files/text4_hard.txt
+SUCCESS -besE test_files/text6_firstEmpty.txt
+SUCCESS -besE test_files/text7.txt
+SUCCESS -besE test_files/text_long.txt
+SUCCESS -besE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -betv test_files/text1.txt
+SUCCESS -betv test_files/text2.txt
+SUCCESS -betv test_files/text3.txt
+SUCCESS -betv test_files/text4_hard.txt
+SUCCESS -betv test_files/text6_firstEmpty.txt
+SUCCESS -betv test_files/text7.txt
+SUCCESS -betv test_files/text_long.txt
+SUCCESS -betv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -betT test_files/text1.txt
+SUCCESS -betT test_files/text2.txt
+SUCCESS -betT test_files/text3.txt
+SUCCESS -betT test_files/text4_hard.txt
+SUCCESS -betT test_files/text6_firstEmpty.txt
+SUCCESS -betT test_files/text7.txt
+SUCCESS -betT test_files/text_long.txt
+SUCCESS -betT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -betE test_files/text1.txt
+SUCCESS -betE test_files/text2.txt
+SUCCESS -betE test_files/text3.txt
+SUCCESS -betE test_files/text4_hard.txt
+SUCCESS -betE test_files/text6_firstEmpty.txt
+SUCCESS -betE test_files/text7.txt
+SUCCESS -betE test_files/text_long.txt
+SUCCESS -betE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bevT test_files/text1.txt
+SUCCESS -bevT test_files/text2.txt
+SUCCESS -bevT test_files/text3.txt
+SUCCESS -bevT test_files/text4_hard.txt
+SUCCESS -bevT test_files/text6_firstEmpty.txt
+SUCCESS -bevT test_files/text7.txt
+SUCCESS -bevT test_files/text_long.txt
+SUCCESS -bevT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bevE test_files/text1.txt
+SUCCESS -bevE test_files/text2.txt
+SUCCESS -bevE test_files/text3.txt
+SUCCESS -bevE test_files/text4_hard.txt
+SUCCESS -bevE test_files/text6_firstEmpty.txt
+SUCCESS -bevE test_files/text7.txt
+SUCCESS -bevE test_files/text_long.txt
+SUCCESS -bevE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -beTE test_files/text1.txt
+SUCCESS -beTE test_files/text2.txt
+SUCCESS -beTE test_files/text3.txt
+SUCCESS -beTE test_files/text4_hard.txt
+SUCCESS -beTE test_files/text6_firstEmpty.txt
+SUCCESS -beTE test_files/text7.txt
+SUCCESS -beTE test_files/text_long.txt
+SUCCESS -beTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnst test_files/text1.txt
+SUCCESS -bnst test_files/text2.txt
+SUCCESS -bnst test_files/text3.txt
+SUCCESS -bnst test_files/text4_hard.txt
+SUCCESS -bnst test_files/text6_firstEmpty.txt
+SUCCESS -bnst test_files/text7.txt
+SUCCESS -bnst test_files/text_long.txt
+SUCCESS -bnst test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnsv test_files/text1.txt
+SUCCESS -bnsv test_files/text2.txt
+SUCCESS -bnsv test_files/text3.txt
+SUCCESS -bnsv test_files/text4_hard.txt
+SUCCESS -bnsv test_files/text6_firstEmpty.txt
+SUCCESS -bnsv test_files/text7.txt
+SUCCESS -bnsv test_files/text_long.txt
+SUCCESS -bnsv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnsT test_files/text1.txt
+SUCCESS -bnsT test_files/text2.txt
+SUCCESS -bnsT test_files/text3.txt
+SUCCESS -bnsT test_files/text4_hard.txt
+SUCCESS -bnsT test_files/text6_firstEmpty.txt
+SUCCESS -bnsT test_files/text7.txt
+SUCCESS -bnsT test_files/text_long.txt
+SUCCESS -bnsT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnsE test_files/text1.txt
+SUCCESS -bnsE test_files/text2.txt
+SUCCESS -bnsE test_files/text3.txt
+SUCCESS -bnsE test_files/text4_hard.txt
+SUCCESS -bnsE test_files/text6_firstEmpty.txt
+SUCCESS -bnsE test_files/text7.txt
+SUCCESS -bnsE test_files/text_long.txt
+SUCCESS -bnsE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bntv test_files/text1.txt
+SUCCESS -bntv test_files/text2.txt
+SUCCESS -bntv test_files/text3.txt
+SUCCESS -bntv test_files/text4_hard.txt
+SUCCESS -bntv test_files/text6_firstEmpty.txt
+SUCCESS -bntv test_files/text7.txt
+SUCCESS -bntv test_files/text_long.txt
+SUCCESS -bntv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bntT test_files/text1.txt
+SUCCESS -bntT test_files/text2.txt
+SUCCESS -bntT test_files/text3.txt
+SUCCESS -bntT test_files/text4_hard.txt
+SUCCESS -bntT test_files/text6_firstEmpty.txt
+SUCCESS -bntT test_files/text7.txt
+SUCCESS -bntT test_files/text_long.txt
+SUCCESS -bntT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bntE test_files/text1.txt
+SUCCESS -bntE test_files/text2.txt
+SUCCESS -bntE test_files/text3.txt
+SUCCESS -bntE test_files/text4_hard.txt
+SUCCESS -bntE test_files/text6_firstEmpty.txt
+SUCCESS -bntE test_files/text7.txt
+SUCCESS -bntE test_files/text_long.txt
+SUCCESS -bntE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnvT test_files/text1.txt
+SUCCESS -bnvT test_files/text2.txt
+SUCCESS -bnvT test_files/text3.txt
+SUCCESS -bnvT test_files/text4_hard.txt
+SUCCESS -bnvT test_files/text6_firstEmpty.txt
+SUCCESS -bnvT test_files/text7.txt
+SUCCESS -bnvT test_files/text_long.txt
+SUCCESS -bnvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnvE test_files/text1.txt
+SUCCESS -bnvE test_files/text2.txt
+SUCCESS -bnvE test_files/text3.txt
+SUCCESS -bnvE test_files/text4_hard.txt
+SUCCESS -bnvE test_files/text6_firstEmpty.txt
+SUCCESS -bnvE test_files/text7.txt
+SUCCESS -bnvE test_files/text_long.txt
+SUCCESS -bnvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnTE test_files/text1.txt
+SUCCESS -bnTE test_files/text2.txt
+SUCCESS -bnTE test_files/text3.txt
+SUCCESS -bnTE test_files/text4_hard.txt
+SUCCESS -bnTE test_files/text6_firstEmpty.txt
+SUCCESS -bnTE test_files/text7.txt
+SUCCESS -bnTE test_files/text_long.txt
+SUCCESS -bnTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bstv test_files/text1.txt
+SUCCESS -bstv test_files/text2.txt
+SUCCESS -bstv test_files/text3.txt
+SUCCESS -bstv test_files/text4_hard.txt
+SUCCESS -bstv test_files/text6_firstEmpty.txt
+SUCCESS -bstv test_files/text7.txt
+SUCCESS -bstv test_files/text_long.txt
+SUCCESS -bstv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bstT test_files/text1.txt
+SUCCESS -bstT test_files/text2.txt
+SUCCESS -bstT test_files/text3.txt
+SUCCESS -bstT test_files/text4_hard.txt
+SUCCESS -bstT test_files/text6_firstEmpty.txt
+SUCCESS -bstT test_files/text7.txt
+SUCCESS -bstT test_files/text_long.txt
+SUCCESS -bstT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bstE test_files/text1.txt
+SUCCESS -bstE test_files/text2.txt
+SUCCESS -bstE test_files/text3.txt
+SUCCESS -bstE test_files/text4_hard.txt
+SUCCESS -bstE test_files/text6_firstEmpty.txt
+SUCCESS -bstE test_files/text7.txt
+SUCCESS -bstE test_files/text_long.txt
+SUCCESS -bstE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bsvT test_files/text1.txt
+SUCCESS -bsvT test_files/text2.txt
+SUCCESS -bsvT test_files/text3.txt
+SUCCESS -bsvT test_files/text4_hard.txt
+SUCCESS -bsvT test_files/text6_firstEmpty.txt
+SUCCESS -bsvT test_files/text7.txt
+SUCCESS -bsvT test_files/text_long.txt
+SUCCESS -bsvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bsvE test_files/text1.txt
+SUCCESS -bsvE test_files/text2.txt
+SUCCESS -bsvE test_files/text3.txt
+SUCCESS -bsvE test_files/text4_hard.txt
+SUCCESS -bsvE test_files/text6_firstEmpty.txt
+SUCCESS -bsvE test_files/text7.txt
+SUCCESS -bsvE test_files/text_long.txt
+SUCCESS -bsvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bsTE test_files/text1.txt
+SUCCESS -bsTE test_files/text2.txt
+SUCCESS -bsTE test_files/text3.txt
+SUCCESS -bsTE test_files/text4_hard.txt
+SUCCESS -bsTE test_files/text6_firstEmpty.txt
+SUCCESS -bsTE test_files/text7.txt
+SUCCESS -bsTE test_files/text_long.txt
+SUCCESS -bsTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -btvT test_files/text1.txt
+SUCCESS -btvT test_files/text2.txt
+SUCCESS -btvT test_files/text3.txt
+SUCCESS -btvT test_files/text4_hard.txt
+SUCCESS -btvT test_files/text6_firstEmpty.txt
+SUCCESS -btvT test_files/text7.txt
+SUCCESS -btvT test_files/text_long.txt
+SUCCESS -btvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -btvE test_files/text1.txt
+SUCCESS -btvE test_files/text2.txt
+SUCCESS -btvE test_files/text3.txt
+SUCCESS -btvE test_files/text4_hard.txt
+SUCCESS -btvE test_files/text6_firstEmpty.txt
+SUCCESS -btvE test_files/text7.txt
+SUCCESS -btvE test_files/text_long.txt
+SUCCESS -btvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -btTE test_files/text1.txt
+SUCCESS -btTE test_files/text2.txt
+SUCCESS -btTE test_files/text3.txt
+SUCCESS -btTE test_files/text4_hard.txt
+SUCCESS -btTE test_files/text6_firstEmpty.txt
+SUCCESS -btTE test_files/text7.txt
+SUCCESS -btTE test_files/text_long.txt
+SUCCESS -btTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bvTE test_files/text1.txt
+SUCCESS -bvTE test_files/text2.txt
+SUCCESS -bvTE test_files/text3.txt
+SUCCESS -bvTE test_files/text4_hard.txt
+SUCCESS -bvTE test_files/text6_firstEmpty.txt
+SUCCESS -bvTE test_files/text7.txt
+SUCCESS -bvTE test_files/text_long.txt
+SUCCESS -bvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enst test_files/text1.txt
+SUCCESS -enst test_files/text2.txt
+SUCCESS -enst test_files/text3.txt
+SUCCESS -enst test_files/text4_hard.txt
+SUCCESS -enst test_files/text6_firstEmpty.txt
+SUCCESS -enst test_files/text7.txt
+SUCCESS -enst test_files/text_long.txt
+SUCCESS -enst test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ensv test_files/text1.txt
+SUCCESS -ensv test_files/text2.txt
+SUCCESS -ensv test_files/text3.txt
+SUCCESS -ensv test_files/text4_hard.txt
+SUCCESS -ensv test_files/text6_firstEmpty.txt
+SUCCESS -ensv test_files/text7.txt
+SUCCESS -ensv test_files/text_long.txt
+SUCCESS -ensv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ensT test_files/text1.txt
+SUCCESS -ensT test_files/text2.txt
+SUCCESS -ensT test_files/text3.txt
+SUCCESS -ensT test_files/text4_hard.txt
+SUCCESS -ensT test_files/text6_firstEmpty.txt
+SUCCESS -ensT test_files/text7.txt
+SUCCESS -ensT test_files/text_long.txt
+SUCCESS -ensT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ensE test_files/text1.txt
+SUCCESS -ensE test_files/text2.txt
+SUCCESS -ensE test_files/text3.txt
+SUCCESS -ensE test_files/text4_hard.txt
+SUCCESS -ensE test_files/text6_firstEmpty.txt
+SUCCESS -ensE test_files/text7.txt
+SUCCESS -ensE test_files/text_long.txt
+SUCCESS -ensE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -entv test_files/text1.txt
+SUCCESS -entv test_files/text2.txt
+SUCCESS -entv test_files/text3.txt
+SUCCESS -entv test_files/text4_hard.txt
+SUCCESS -entv test_files/text6_firstEmpty.txt
+SUCCESS -entv test_files/text7.txt
+SUCCESS -entv test_files/text_long.txt
+SUCCESS -entv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -entT test_files/text1.txt
+SUCCESS -entT test_files/text2.txt
+SUCCESS -entT test_files/text3.txt
+SUCCESS -entT test_files/text4_hard.txt
+SUCCESS -entT test_files/text6_firstEmpty.txt
+SUCCESS -entT test_files/text7.txt
+SUCCESS -entT test_files/text_long.txt
+SUCCESS -entT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -entE test_files/text1.txt
+SUCCESS -entE test_files/text2.txt
+SUCCESS -entE test_files/text3.txt
+SUCCESS -entE test_files/text4_hard.txt
+SUCCESS -entE test_files/text6_firstEmpty.txt
+SUCCESS -entE test_files/text7.txt
+SUCCESS -entE test_files/text_long.txt
+SUCCESS -entE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -envT test_files/text1.txt
+SUCCESS -envT test_files/text2.txt
+SUCCESS -envT test_files/text3.txt
+SUCCESS -envT test_files/text4_hard.txt
+SUCCESS -envT test_files/text6_firstEmpty.txt
+SUCCESS -envT test_files/text7.txt
+SUCCESS -envT test_files/text_long.txt
+SUCCESS -envT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -envE test_files/text1.txt
+SUCCESS -envE test_files/text2.txt
+SUCCESS -envE test_files/text3.txt
+SUCCESS -envE test_files/text4_hard.txt
+SUCCESS -envE test_files/text6_firstEmpty.txt
+SUCCESS -envE test_files/text7.txt
+SUCCESS -envE test_files/text_long.txt
+SUCCESS -envE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enTE test_files/text1.txt
+SUCCESS -enTE test_files/text2.txt
+SUCCESS -enTE test_files/text3.txt
+SUCCESS -enTE test_files/text4_hard.txt
+SUCCESS -enTE test_files/text6_firstEmpty.txt
+SUCCESS -enTE test_files/text7.txt
+SUCCESS -enTE test_files/text_long.txt
+SUCCESS -enTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -estv test_files/text1.txt
+SUCCESS -estv test_files/text2.txt
+SUCCESS -estv test_files/text3.txt
+SUCCESS -estv test_files/text4_hard.txt
+SUCCESS -estv test_files/text6_firstEmpty.txt
+SUCCESS -estv test_files/text7.txt
+SUCCESS -estv test_files/text_long.txt
+SUCCESS -estv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -estT test_files/text1.txt
+SUCCESS -estT test_files/text2.txt
+SUCCESS -estT test_files/text3.txt
+SUCCESS -estT test_files/text4_hard.txt
+SUCCESS -estT test_files/text6_firstEmpty.txt
+SUCCESS -estT test_files/text7.txt
+SUCCESS -estT test_files/text_long.txt
+SUCCESS -estT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -estE test_files/text1.txt
+SUCCESS -estE test_files/text2.txt
+SUCCESS -estE test_files/text3.txt
+SUCCESS -estE test_files/text4_hard.txt
+SUCCESS -estE test_files/text6_firstEmpty.txt
+SUCCESS -estE test_files/text7.txt
+SUCCESS -estE test_files/text_long.txt
+SUCCESS -estE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -esvT test_files/text1.txt
+SUCCESS -esvT test_files/text2.txt
+SUCCESS -esvT test_files/text3.txt
+SUCCESS -esvT test_files/text4_hard.txt
+SUCCESS -esvT test_files/text6_firstEmpty.txt
+SUCCESS -esvT test_files/text7.txt
+SUCCESS -esvT test_files/text_long.txt
+SUCCESS -esvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -esvE test_files/text1.txt
+SUCCESS -esvE test_files/text2.txt
+SUCCESS -esvE test_files/text3.txt
+SUCCESS -esvE test_files/text4_hard.txt
+SUCCESS -esvE test_files/text6_firstEmpty.txt
+SUCCESS -esvE test_files/text7.txt
+SUCCESS -esvE test_files/text_long.txt
+SUCCESS -esvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -esTE test_files/text1.txt
+SUCCESS -esTE test_files/text2.txt
+SUCCESS -esTE test_files/text3.txt
+SUCCESS -esTE test_files/text4_hard.txt
+SUCCESS -esTE test_files/text6_firstEmpty.txt
+SUCCESS -esTE test_files/text7.txt
+SUCCESS -esTE test_files/text_long.txt
+SUCCESS -esTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -etvT test_files/text1.txt
+SUCCESS -etvT test_files/text2.txt
+SUCCESS -etvT test_files/text3.txt
+SUCCESS -etvT test_files/text4_hard.txt
+SUCCESS -etvT test_files/text6_firstEmpty.txt
+SUCCESS -etvT test_files/text7.txt
+SUCCESS -etvT test_files/text_long.txt
+SUCCESS -etvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -etvE test_files/text1.txt
+SUCCESS -etvE test_files/text2.txt
+SUCCESS -etvE test_files/text3.txt
+SUCCESS -etvE test_files/text4_hard.txt
+SUCCESS -etvE test_files/text6_firstEmpty.txt
+SUCCESS -etvE test_files/text7.txt
+SUCCESS -etvE test_files/text_long.txt
+SUCCESS -etvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -etTE test_files/text1.txt
+SUCCESS -etTE test_files/text2.txt
+SUCCESS -etTE test_files/text3.txt
+SUCCESS -etTE test_files/text4_hard.txt
+SUCCESS -etTE test_files/text6_firstEmpty.txt
+SUCCESS -etTE test_files/text7.txt
+SUCCESS -etTE test_files/text_long.txt
+SUCCESS -etTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -evTE test_files/text1.txt
+SUCCESS -evTE test_files/text2.txt
+SUCCESS -evTE test_files/text3.txt
+SUCCESS -evTE test_files/text4_hard.txt
+SUCCESS -evTE test_files/text6_firstEmpty.txt
+SUCCESS -evTE test_files/text7.txt
+SUCCESS -evTE test_files/text_long.txt
+SUCCESS -evTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nstv test_files/text1.txt
+SUCCESS -nstv test_files/text2.txt
+SUCCESS -nstv test_files/text3.txt
+SUCCESS -nstv test_files/text4_hard.txt
+SUCCESS -nstv test_files/text6_firstEmpty.txt
+SUCCESS -nstv test_files/text7.txt
+SUCCESS -nstv test_files/text_long.txt
+SUCCESS -nstv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nstT test_files/text1.txt
+SUCCESS -nstT test_files/text2.txt
+SUCCESS -nstT test_files/text3.txt
+SUCCESS -nstT test_files/text4_hard.txt
+SUCCESS -nstT test_files/text6_firstEmpty.txt
+SUCCESS -nstT test_files/text7.txt
+SUCCESS -nstT test_files/text_long.txt
+SUCCESS -nstT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nstE test_files/text1.txt
+SUCCESS -nstE test_files/text2.txt
+SUCCESS -nstE test_files/text3.txt
+SUCCESS -nstE test_files/text4_hard.txt
+SUCCESS -nstE test_files/text6_firstEmpty.txt
+SUCCESS -nstE test_files/text7.txt
+SUCCESS -nstE test_files/text_long.txt
+SUCCESS -nstE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nsvT test_files/text1.txt
+SUCCESS -nsvT test_files/text2.txt
+SUCCESS -nsvT test_files/text3.txt
+SUCCESS -nsvT test_files/text4_hard.txt
+SUCCESS -nsvT test_files/text6_firstEmpty.txt
+SUCCESS -nsvT test_files/text7.txt
+SUCCESS -nsvT test_files/text_long.txt
+SUCCESS -nsvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nsvE test_files/text1.txt
+SUCCESS -nsvE test_files/text2.txt
+SUCCESS -nsvE test_files/text3.txt
+SUCCESS -nsvE test_files/text4_hard.txt
+SUCCESS -nsvE test_files/text6_firstEmpty.txt
+SUCCESS -nsvE test_files/text7.txt
+SUCCESS -nsvE test_files/text_long.txt
+SUCCESS -nsvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nsTE test_files/text1.txt
+SUCCESS -nsTE test_files/text2.txt
+SUCCESS -nsTE test_files/text3.txt
+SUCCESS -nsTE test_files/text4_hard.txt
+SUCCESS -nsTE test_files/text6_firstEmpty.txt
+SUCCESS -nsTE test_files/text7.txt
+SUCCESS -nsTE test_files/text_long.txt
+SUCCESS -nsTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ntvT test_files/text1.txt
+SUCCESS -ntvT test_files/text2.txt
+SUCCESS -ntvT test_files/text3.txt
+SUCCESS -ntvT test_files/text4_hard.txt
+SUCCESS -ntvT test_files/text6_firstEmpty.txt
+SUCCESS -ntvT test_files/text7.txt
+SUCCESS -ntvT test_files/text_long.txt
+SUCCESS -ntvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ntvE test_files/text1.txt
+SUCCESS -ntvE test_files/text2.txt
+SUCCESS -ntvE test_files/text3.txt
+SUCCESS -ntvE test_files/text4_hard.txt
+SUCCESS -ntvE test_files/text6_firstEmpty.txt
+SUCCESS -ntvE test_files/text7.txt
+SUCCESS -ntvE test_files/text_long.txt
+SUCCESS -ntvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ntTE test_files/text1.txt
+SUCCESS -ntTE test_files/text2.txt
+SUCCESS -ntTE test_files/text3.txt
+SUCCESS -ntTE test_files/text4_hard.txt
+SUCCESS -ntTE test_files/text6_firstEmpty.txt
+SUCCESS -ntTE test_files/text7.txt
+SUCCESS -ntTE test_files/text_long.txt
+SUCCESS -ntTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nvTE test_files/text1.txt
+SUCCESS -nvTE test_files/text2.txt
+SUCCESS -nvTE test_files/text3.txt
+SUCCESS -nvTE test_files/text4_hard.txt
+SUCCESS -nvTE test_files/text6_firstEmpty.txt
+SUCCESS -nvTE test_files/text7.txt
+SUCCESS -nvTE test_files/text_long.txt
+SUCCESS -nvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -stvT test_files/text1.txt
+SUCCESS -stvT test_files/text2.txt
+SUCCESS -stvT test_files/text3.txt
+SUCCESS -stvT test_files/text4_hard.txt
+SUCCESS -stvT test_files/text6_firstEmpty.txt
+SUCCESS -stvT test_files/text7.txt
+SUCCESS -stvT test_files/text_long.txt
+SUCCESS -stvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -stvE test_files/text1.txt
+SUCCESS -stvE test_files/text2.txt
+SUCCESS -stvE test_files/text3.txt
+SUCCESS -stvE test_files/text4_hard.txt
+SUCCESS -stvE test_files/text6_firstEmpty.txt
+SUCCESS -stvE test_files/text7.txt
+SUCCESS -stvE test_files/text_long.txt
+SUCCESS -stvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -stTE test_files/text1.txt
+SUCCESS -stTE test_files/text2.txt
+SUCCESS -stTE test_files/text3.txt
+SUCCESS -stTE test_files/text4_hard.txt
+SUCCESS -stTE test_files/text6_firstEmpty.txt
+SUCCESS -stTE test_files/text7.txt
+SUCCESS -stTE test_files/text_long.txt
+SUCCESS -stTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -svTE test_files/text1.txt
+SUCCESS -svTE test_files/text2.txt
+SUCCESS -svTE test_files/text3.txt
+SUCCESS -svTE test_files/text4_hard.txt
+SUCCESS -svTE test_files/text6_firstEmpty.txt
+SUCCESS -svTE test_files/text7.txt
+SUCCESS -svTE test_files/text_long.txt
+SUCCESS -svTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -tvTE test_files/text1.txt
+SUCCESS -tvTE test_files/text2.txt
+SUCCESS -tvTE test_files/text3.txt
+SUCCESS -tvTE test_files/text4_hard.txt
+SUCCESS -tvTE test_files/text6_firstEmpty.txt
+SUCCESS -tvTE test_files/text7.txt
+SUCCESS -tvTE test_files/text_long.txt
+SUCCESS -tvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benst test_files/text1.txt
+SUCCESS -benst test_files/text2.txt
+SUCCESS -benst test_files/text3.txt
+SUCCESS -benst test_files/text4_hard.txt
+SUCCESS -benst test_files/text6_firstEmpty.txt
+SUCCESS -benst test_files/text7.txt
+SUCCESS -benst test_files/text_long.txt
+SUCCESS -benst test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bensv test_files/text1.txt
+SUCCESS -bensv test_files/text2.txt
+SUCCESS -bensv test_files/text3.txt
+SUCCESS -bensv test_files/text4_hard.txt
+SUCCESS -bensv test_files/text6_firstEmpty.txt
+SUCCESS -bensv test_files/text7.txt
+SUCCESS -bensv test_files/text_long.txt
+SUCCESS -bensv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bensT test_files/text1.txt
+SUCCESS -bensT test_files/text2.txt
+SUCCESS -bensT test_files/text3.txt
+SUCCESS -bensT test_files/text4_hard.txt
+SUCCESS -bensT test_files/text6_firstEmpty.txt
+SUCCESS -bensT test_files/text7.txt
+SUCCESS -bensT test_files/text_long.txt
+SUCCESS -bensT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bensE test_files/text1.txt
+SUCCESS -bensE test_files/text2.txt
+SUCCESS -bensE test_files/text3.txt
+SUCCESS -bensE test_files/text4_hard.txt
+SUCCESS -bensE test_files/text6_firstEmpty.txt
+SUCCESS -bensE test_files/text7.txt
+SUCCESS -bensE test_files/text_long.txt
+SUCCESS -bensE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bentv test_files/text1.txt
+SUCCESS -bentv test_files/text2.txt
+SUCCESS -bentv test_files/text3.txt
+SUCCESS -bentv test_files/text4_hard.txt
+SUCCESS -bentv test_files/text6_firstEmpty.txt
+SUCCESS -bentv test_files/text7.txt
+SUCCESS -bentv test_files/text_long.txt
+SUCCESS -bentv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bentT test_files/text1.txt
+SUCCESS -bentT test_files/text2.txt
+SUCCESS -bentT test_files/text3.txt
+SUCCESS -bentT test_files/text4_hard.txt
+SUCCESS -bentT test_files/text6_firstEmpty.txt
+SUCCESS -bentT test_files/text7.txt
+SUCCESS -bentT test_files/text_long.txt
+SUCCESS -bentT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bentE test_files/text1.txt
+SUCCESS -bentE test_files/text2.txt
+SUCCESS -bentE test_files/text3.txt
+SUCCESS -bentE test_files/text4_hard.txt
+SUCCESS -bentE test_files/text6_firstEmpty.txt
+SUCCESS -bentE test_files/text7.txt
+SUCCESS -bentE test_files/text_long.txt
+SUCCESS -bentE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benvT test_files/text1.txt
+SUCCESS -benvT test_files/text2.txt
+SUCCESS -benvT test_files/text3.txt
+SUCCESS -benvT test_files/text4_hard.txt
+SUCCESS -benvT test_files/text6_firstEmpty.txt
+SUCCESS -benvT test_files/text7.txt
+SUCCESS -benvT test_files/text_long.txt
+SUCCESS -benvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benvE test_files/text1.txt
+SUCCESS -benvE test_files/text2.txt
+SUCCESS -benvE test_files/text3.txt
+SUCCESS -benvE test_files/text4_hard.txt
+SUCCESS -benvE test_files/text6_firstEmpty.txt
+SUCCESS -benvE test_files/text7.txt
+SUCCESS -benvE test_files/text_long.txt
+SUCCESS -benvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benTE test_files/text1.txt
+SUCCESS -benTE test_files/text2.txt
+SUCCESS -benTE test_files/text3.txt
+SUCCESS -benTE test_files/text4_hard.txt
+SUCCESS -benTE test_files/text6_firstEmpty.txt
+SUCCESS -benTE test_files/text7.txt
+SUCCESS -benTE test_files/text_long.txt
+SUCCESS -benTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bestv test_files/text1.txt
+SUCCESS -bestv test_files/text2.txt
+SUCCESS -bestv test_files/text3.txt
+SUCCESS -bestv test_files/text4_hard.txt
+SUCCESS -bestv test_files/text6_firstEmpty.txt
+SUCCESS -bestv test_files/text7.txt
+SUCCESS -bestv test_files/text_long.txt
+SUCCESS -bestv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bestT test_files/text1.txt
+SUCCESS -bestT test_files/text2.txt
+SUCCESS -bestT test_files/text3.txt
+SUCCESS -bestT test_files/text4_hard.txt
+SUCCESS -bestT test_files/text6_firstEmpty.txt
+SUCCESS -bestT test_files/text7.txt
+SUCCESS -bestT test_files/text_long.txt
+SUCCESS -bestT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bestE test_files/text1.txt
+SUCCESS -bestE test_files/text2.txt
+SUCCESS -bestE test_files/text3.txt
+SUCCESS -bestE test_files/text4_hard.txt
+SUCCESS -bestE test_files/text6_firstEmpty.txt
+SUCCESS -bestE test_files/text7.txt
+SUCCESS -bestE test_files/text_long.txt
+SUCCESS -bestE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -besvT test_files/text1.txt
+SUCCESS -besvT test_files/text2.txt
+SUCCESS -besvT test_files/text3.txt
+SUCCESS -besvT test_files/text4_hard.txt
+SUCCESS -besvT test_files/text6_firstEmpty.txt
+SUCCESS -besvT test_files/text7.txt
+SUCCESS -besvT test_files/text_long.txt
+SUCCESS -besvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -besvE test_files/text1.txt
+SUCCESS -besvE test_files/text2.txt
+SUCCESS -besvE test_files/text3.txt
+SUCCESS -besvE test_files/text4_hard.txt
+SUCCESS -besvE test_files/text6_firstEmpty.txt
+SUCCESS -besvE test_files/text7.txt
+SUCCESS -besvE test_files/text_long.txt
+SUCCESS -besvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -besTE test_files/text1.txt
+SUCCESS -besTE test_files/text2.txt
+SUCCESS -besTE test_files/text3.txt
+SUCCESS -besTE test_files/text4_hard.txt
+SUCCESS -besTE test_files/text6_firstEmpty.txt
+SUCCESS -besTE test_files/text7.txt
+SUCCESS -besTE test_files/text_long.txt
+SUCCESS -besTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -betvT test_files/text1.txt
+SUCCESS -betvT test_files/text2.txt
+SUCCESS -betvT test_files/text3.txt
+SUCCESS -betvT test_files/text4_hard.txt
+SUCCESS -betvT test_files/text6_firstEmpty.txt
+SUCCESS -betvT test_files/text7.txt
+SUCCESS -betvT test_files/text_long.txt
+SUCCESS -betvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -betvE test_files/text1.txt
+SUCCESS -betvE test_files/text2.txt
+SUCCESS -betvE test_files/text3.txt
+SUCCESS -betvE test_files/text4_hard.txt
+SUCCESS -betvE test_files/text6_firstEmpty.txt
+SUCCESS -betvE test_files/text7.txt
+SUCCESS -betvE test_files/text_long.txt
+SUCCESS -betvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -betTE test_files/text1.txt
+SUCCESS -betTE test_files/text2.txt
+SUCCESS -betTE test_files/text3.txt
+SUCCESS -betTE test_files/text4_hard.txt
+SUCCESS -betTE test_files/text6_firstEmpty.txt
+SUCCESS -betTE test_files/text7.txt
+SUCCESS -betTE test_files/text_long.txt
+SUCCESS -betTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bevTE test_files/text1.txt
+SUCCESS -bevTE test_files/text2.txt
+SUCCESS -bevTE test_files/text3.txt
+SUCCESS -bevTE test_files/text4_hard.txt
+SUCCESS -bevTE test_files/text6_firstEmpty.txt
+SUCCESS -bevTE test_files/text7.txt
+SUCCESS -bevTE test_files/text_long.txt
+SUCCESS -bevTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnstv test_files/text1.txt
+SUCCESS -bnstv test_files/text2.txt
+SUCCESS -bnstv test_files/text3.txt
+SUCCESS -bnstv test_files/text4_hard.txt
+SUCCESS -bnstv test_files/text6_firstEmpty.txt
+SUCCESS -bnstv test_files/text7.txt
+SUCCESS -bnstv test_files/text_long.txt
+SUCCESS -bnstv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnstT test_files/text1.txt
+SUCCESS -bnstT test_files/text2.txt
+SUCCESS -bnstT test_files/text3.txt
+SUCCESS -bnstT test_files/text4_hard.txt
+SUCCESS -bnstT test_files/text6_firstEmpty.txt
+SUCCESS -bnstT test_files/text7.txt
+SUCCESS -bnstT test_files/text_long.txt
+SUCCESS -bnstT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnstE test_files/text1.txt
+SUCCESS -bnstE test_files/text2.txt
+SUCCESS -bnstE test_files/text3.txt
+SUCCESS -bnstE test_files/text4_hard.txt
+SUCCESS -bnstE test_files/text6_firstEmpty.txt
+SUCCESS -bnstE test_files/text7.txt
+SUCCESS -bnstE test_files/text_long.txt
+SUCCESS -bnstE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnsvT test_files/text1.txt
+SUCCESS -bnsvT test_files/text2.txt
+SUCCESS -bnsvT test_files/text3.txt
+SUCCESS -bnsvT test_files/text4_hard.txt
+SUCCESS -bnsvT test_files/text6_firstEmpty.txt
+SUCCESS -bnsvT test_files/text7.txt
+SUCCESS -bnsvT test_files/text_long.txt
+SUCCESS -bnsvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnsvE test_files/text1.txt
+SUCCESS -bnsvE test_files/text2.txt
+SUCCESS -bnsvE test_files/text3.txt
+SUCCESS -bnsvE test_files/text4_hard.txt
+SUCCESS -bnsvE test_files/text6_firstEmpty.txt
+SUCCESS -bnsvE test_files/text7.txt
+SUCCESS -bnsvE test_files/text_long.txt
+SUCCESS -bnsvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnsTE test_files/text1.txt
+SUCCESS -bnsTE test_files/text2.txt
+SUCCESS -bnsTE test_files/text3.txt
+SUCCESS -bnsTE test_files/text4_hard.txt
+SUCCESS -bnsTE test_files/text6_firstEmpty.txt
+SUCCESS -bnsTE test_files/text7.txt
+SUCCESS -bnsTE test_files/text_long.txt
+SUCCESS -bnsTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bntvT test_files/text1.txt
+SUCCESS -bntvT test_files/text2.txt
+SUCCESS -bntvT test_files/text3.txt
+SUCCESS -bntvT test_files/text4_hard.txt
+SUCCESS -bntvT test_files/text6_firstEmpty.txt
+SUCCESS -bntvT test_files/text7.txt
+SUCCESS -bntvT test_files/text_long.txt
+SUCCESS -bntvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bntvE test_files/text1.txt
+SUCCESS -bntvE test_files/text2.txt
+SUCCESS -bntvE test_files/text3.txt
+SUCCESS -bntvE test_files/text4_hard.txt
+SUCCESS -bntvE test_files/text6_firstEmpty.txt
+SUCCESS -bntvE test_files/text7.txt
+SUCCESS -bntvE test_files/text_long.txt
+SUCCESS -bntvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bntTE test_files/text1.txt
+SUCCESS -bntTE test_files/text2.txt
+SUCCESS -bntTE test_files/text3.txt
+SUCCESS -bntTE test_files/text4_hard.txt
+SUCCESS -bntTE test_files/text6_firstEmpty.txt
+SUCCESS -bntTE test_files/text7.txt
+SUCCESS -bntTE test_files/text_long.txt
+SUCCESS -bntTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnvTE test_files/text1.txt
+SUCCESS -bnvTE test_files/text2.txt
+SUCCESS -bnvTE test_files/text3.txt
+SUCCESS -bnvTE test_files/text4_hard.txt
+SUCCESS -bnvTE test_files/text6_firstEmpty.txt
+SUCCESS -bnvTE test_files/text7.txt
+SUCCESS -bnvTE test_files/text_long.txt
+SUCCESS -bnvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bstvT test_files/text1.txt
+SUCCESS -bstvT test_files/text2.txt
+SUCCESS -bstvT test_files/text3.txt
+SUCCESS -bstvT test_files/text4_hard.txt
+SUCCESS -bstvT test_files/text6_firstEmpty.txt
+SUCCESS -bstvT test_files/text7.txt
+SUCCESS -bstvT test_files/text_long.txt
+SUCCESS -bstvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bstvE test_files/text1.txt
+SUCCESS -bstvE test_files/text2.txt
+SUCCESS -bstvE test_files/text3.txt
+SUCCESS -bstvE test_files/text4_hard.txt
+SUCCESS -bstvE test_files/text6_firstEmpty.txt
+SUCCESS -bstvE test_files/text7.txt
+SUCCESS -bstvE test_files/text_long.txt
+SUCCESS -bstvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bstTE test_files/text1.txt
+SUCCESS -bstTE test_files/text2.txt
+SUCCESS -bstTE test_files/text3.txt
+SUCCESS -bstTE test_files/text4_hard.txt
+SUCCESS -bstTE test_files/text6_firstEmpty.txt
+SUCCESS -bstTE test_files/text7.txt
+SUCCESS -bstTE test_files/text_long.txt
+SUCCESS -bstTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bsvTE test_files/text1.txt
+SUCCESS -bsvTE test_files/text2.txt
+SUCCESS -bsvTE test_files/text3.txt
+SUCCESS -bsvTE test_files/text4_hard.txt
+SUCCESS -bsvTE test_files/text6_firstEmpty.txt
+SUCCESS -bsvTE test_files/text7.txt
+SUCCESS -bsvTE test_files/text_long.txt
+SUCCESS -bsvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -btvTE test_files/text1.txt
+SUCCESS -btvTE test_files/text2.txt
+SUCCESS -btvTE test_files/text3.txt
+SUCCESS -btvTE test_files/text4_hard.txt
+SUCCESS -btvTE test_files/text6_firstEmpty.txt
+SUCCESS -btvTE test_files/text7.txt
+SUCCESS -btvTE test_files/text_long.txt
+SUCCESS -btvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enstv test_files/text1.txt
+SUCCESS -enstv test_files/text2.txt
+SUCCESS -enstv test_files/text3.txt
+SUCCESS -enstv test_files/text4_hard.txt
+SUCCESS -enstv test_files/text6_firstEmpty.txt
+SUCCESS -enstv test_files/text7.txt
+SUCCESS -enstv test_files/text_long.txt
+SUCCESS -enstv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enstT test_files/text1.txt
+SUCCESS -enstT test_files/text2.txt
+SUCCESS -enstT test_files/text3.txt
+SUCCESS -enstT test_files/text4_hard.txt
+SUCCESS -enstT test_files/text6_firstEmpty.txt
+SUCCESS -enstT test_files/text7.txt
+SUCCESS -enstT test_files/text_long.txt
+SUCCESS -enstT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enstE test_files/text1.txt
+SUCCESS -enstE test_files/text2.txt
+SUCCESS -enstE test_files/text3.txt
+SUCCESS -enstE test_files/text4_hard.txt
+SUCCESS -enstE test_files/text6_firstEmpty.txt
+SUCCESS -enstE test_files/text7.txt
+SUCCESS -enstE test_files/text_long.txt
+SUCCESS -enstE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ensvT test_files/text1.txt
+SUCCESS -ensvT test_files/text2.txt
+SUCCESS -ensvT test_files/text3.txt
+SUCCESS -ensvT test_files/text4_hard.txt
+SUCCESS -ensvT test_files/text6_firstEmpty.txt
+SUCCESS -ensvT test_files/text7.txt
+SUCCESS -ensvT test_files/text_long.txt
+SUCCESS -ensvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ensvE test_files/text1.txt
+SUCCESS -ensvE test_files/text2.txt
+SUCCESS -ensvE test_files/text3.txt
+SUCCESS -ensvE test_files/text4_hard.txt
+SUCCESS -ensvE test_files/text6_firstEmpty.txt
+SUCCESS -ensvE test_files/text7.txt
+SUCCESS -ensvE test_files/text_long.txt
+SUCCESS -ensvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ensTE test_files/text1.txt
+SUCCESS -ensTE test_files/text2.txt
+SUCCESS -ensTE test_files/text3.txt
+SUCCESS -ensTE test_files/text4_hard.txt
+SUCCESS -ensTE test_files/text6_firstEmpty.txt
+SUCCESS -ensTE test_files/text7.txt
+SUCCESS -ensTE test_files/text_long.txt
+SUCCESS -ensTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -entvT test_files/text1.txt
+SUCCESS -entvT test_files/text2.txt
+SUCCESS -entvT test_files/text3.txt
+SUCCESS -entvT test_files/text4_hard.txt
+SUCCESS -entvT test_files/text6_firstEmpty.txt
+SUCCESS -entvT test_files/text7.txt
+SUCCESS -entvT test_files/text_long.txt
+SUCCESS -entvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -entvE test_files/text1.txt
+SUCCESS -entvE test_files/text2.txt
+SUCCESS -entvE test_files/text3.txt
+SUCCESS -entvE test_files/text4_hard.txt
+SUCCESS -entvE test_files/text6_firstEmpty.txt
+SUCCESS -entvE test_files/text7.txt
+SUCCESS -entvE test_files/text_long.txt
+SUCCESS -entvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -entTE test_files/text1.txt
+SUCCESS -entTE test_files/text2.txt
+SUCCESS -entTE test_files/text3.txt
+SUCCESS -entTE test_files/text4_hard.txt
+SUCCESS -entTE test_files/text6_firstEmpty.txt
+SUCCESS -entTE test_files/text7.txt
+SUCCESS -entTE test_files/text_long.txt
+SUCCESS -entTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -envTE test_files/text1.txt
+SUCCESS -envTE test_files/text2.txt
+SUCCESS -envTE test_files/text3.txt
+SUCCESS -envTE test_files/text4_hard.txt
+SUCCESS -envTE test_files/text6_firstEmpty.txt
+SUCCESS -envTE test_files/text7.txt
+SUCCESS -envTE test_files/text_long.txt
+SUCCESS -envTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -estvT test_files/text1.txt
+SUCCESS -estvT test_files/text2.txt
+SUCCESS -estvT test_files/text3.txt
+SUCCESS -estvT test_files/text4_hard.txt
+SUCCESS -estvT test_files/text6_firstEmpty.txt
+SUCCESS -estvT test_files/text7.txt
+SUCCESS -estvT test_files/text_long.txt
+SUCCESS -estvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -estvE test_files/text1.txt
+SUCCESS -estvE test_files/text2.txt
+SUCCESS -estvE test_files/text3.txt
+SUCCESS -estvE test_files/text4_hard.txt
+SUCCESS -estvE test_files/text6_firstEmpty.txt
+SUCCESS -estvE test_files/text7.txt
+SUCCESS -estvE test_files/text_long.txt
+SUCCESS -estvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -estTE test_files/text1.txt
+SUCCESS -estTE test_files/text2.txt
+SUCCESS -estTE test_files/text3.txt
+SUCCESS -estTE test_files/text4_hard.txt
+SUCCESS -estTE test_files/text6_firstEmpty.txt
+SUCCESS -estTE test_files/text7.txt
+SUCCESS -estTE test_files/text_long.txt
+SUCCESS -estTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -esvTE test_files/text1.txt
+SUCCESS -esvTE test_files/text2.txt
+SUCCESS -esvTE test_files/text3.txt
+SUCCESS -esvTE test_files/text4_hard.txt
+SUCCESS -esvTE test_files/text6_firstEmpty.txt
+SUCCESS -esvTE test_files/text7.txt
+SUCCESS -esvTE test_files/text_long.txt
+SUCCESS -esvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -etvTE test_files/text1.txt
+SUCCESS -etvTE test_files/text2.txt
+SUCCESS -etvTE test_files/text3.txt
+SUCCESS -etvTE test_files/text4_hard.txt
+SUCCESS -etvTE test_files/text6_firstEmpty.txt
+SUCCESS -etvTE test_files/text7.txt
+SUCCESS -etvTE test_files/text_long.txt
+SUCCESS -etvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nstvT test_files/text1.txt
+SUCCESS -nstvT test_files/text2.txt
+SUCCESS -nstvT test_files/text3.txt
+SUCCESS -nstvT test_files/text4_hard.txt
+SUCCESS -nstvT test_files/text6_firstEmpty.txt
+SUCCESS -nstvT test_files/text7.txt
+SUCCESS -nstvT test_files/text_long.txt
+SUCCESS -nstvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nstvE test_files/text1.txt
+SUCCESS -nstvE test_files/text2.txt
+SUCCESS -nstvE test_files/text3.txt
+SUCCESS -nstvE test_files/text4_hard.txt
+SUCCESS -nstvE test_files/text6_firstEmpty.txt
+SUCCESS -nstvE test_files/text7.txt
+SUCCESS -nstvE test_files/text_long.txt
+SUCCESS -nstvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nstTE test_files/text1.txt
+SUCCESS -nstTE test_files/text2.txt
+SUCCESS -nstTE test_files/text3.txt
+SUCCESS -nstTE test_files/text4_hard.txt
+SUCCESS -nstTE test_files/text6_firstEmpty.txt
+SUCCESS -nstTE test_files/text7.txt
+SUCCESS -nstTE test_files/text_long.txt
+SUCCESS -nstTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nsvTE test_files/text1.txt
+SUCCESS -nsvTE test_files/text2.txt
+SUCCESS -nsvTE test_files/text3.txt
+SUCCESS -nsvTE test_files/text4_hard.txt
+SUCCESS -nsvTE test_files/text6_firstEmpty.txt
+SUCCESS -nsvTE test_files/text7.txt
+SUCCESS -nsvTE test_files/text_long.txt
+SUCCESS -nsvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ntvTE test_files/text1.txt
+SUCCESS -ntvTE test_files/text2.txt
+SUCCESS -ntvTE test_files/text3.txt
+SUCCESS -ntvTE test_files/text4_hard.txt
+SUCCESS -ntvTE test_files/text6_firstEmpty.txt
+SUCCESS -ntvTE test_files/text7.txt
+SUCCESS -ntvTE test_files/text_long.txt
+SUCCESS -ntvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -stvTE test_files/text1.txt
+SUCCESS -stvTE test_files/text2.txt
+SUCCESS -stvTE test_files/text3.txt
+SUCCESS -stvTE test_files/text4_hard.txt
+SUCCESS -stvTE test_files/text6_firstEmpty.txt
+SUCCESS -stvTE test_files/text7.txt
+SUCCESS -stvTE test_files/text_long.txt
+SUCCESS -stvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benstv test_files/text1.txt
+SUCCESS -benstv test_files/text2.txt
+SUCCESS -benstv test_files/text3.txt
+SUCCESS -benstv test_files/text4_hard.txt
+SUCCESS -benstv test_files/text6_firstEmpty.txt
+SUCCESS -benstv test_files/text7.txt
+SUCCESS -benstv test_files/text_long.txt
+SUCCESS -benstv test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benstT test_files/text1.txt
+SUCCESS -benstT test_files/text2.txt
+SUCCESS -benstT test_files/text3.txt
+SUCCESS -benstT test_files/text4_hard.txt
+SUCCESS -benstT test_files/text6_firstEmpty.txt
+SUCCESS -benstT test_files/text7.txt
+SUCCESS -benstT test_files/text_long.txt
+SUCCESS -benstT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benstE test_files/text1.txt
+SUCCESS -benstE test_files/text2.txt
+SUCCESS -benstE test_files/text3.txt
+SUCCESS -benstE test_files/text4_hard.txt
+SUCCESS -benstE test_files/text6_firstEmpty.txt
+SUCCESS -benstE test_files/text7.txt
+SUCCESS -benstE test_files/text_long.txt
+SUCCESS -benstE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bensvT test_files/text1.txt
+SUCCESS -bensvT test_files/text2.txt
+SUCCESS -bensvT test_files/text3.txt
+SUCCESS -bensvT test_files/text4_hard.txt
+SUCCESS -bensvT test_files/text6_firstEmpty.txt
+SUCCESS -bensvT test_files/text7.txt
+SUCCESS -bensvT test_files/text_long.txt
+SUCCESS -bensvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bensvE test_files/text1.txt
+SUCCESS -bensvE test_files/text2.txt
+SUCCESS -bensvE test_files/text3.txt
+SUCCESS -bensvE test_files/text4_hard.txt
+SUCCESS -bensvE test_files/text6_firstEmpty.txt
+SUCCESS -bensvE test_files/text7.txt
+SUCCESS -bensvE test_files/text_long.txt
+SUCCESS -bensvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bensTE test_files/text1.txt
+SUCCESS -bensTE test_files/text2.txt
+SUCCESS -bensTE test_files/text3.txt
+SUCCESS -bensTE test_files/text4_hard.txt
+SUCCESS -bensTE test_files/text6_firstEmpty.txt
+SUCCESS -bensTE test_files/text7.txt
+SUCCESS -bensTE test_files/text_long.txt
+SUCCESS -bensTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bentvT test_files/text1.txt
+SUCCESS -bentvT test_files/text2.txt
+SUCCESS -bentvT test_files/text3.txt
+SUCCESS -bentvT test_files/text4_hard.txt
+SUCCESS -bentvT test_files/text6_firstEmpty.txt
+SUCCESS -bentvT test_files/text7.txt
+SUCCESS -bentvT test_files/text_long.txt
+SUCCESS -bentvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bentvE test_files/text1.txt
+SUCCESS -bentvE test_files/text2.txt
+SUCCESS -bentvE test_files/text3.txt
+SUCCESS -bentvE test_files/text4_hard.txt
+SUCCESS -bentvE test_files/text6_firstEmpty.txt
+SUCCESS -bentvE test_files/text7.txt
+SUCCESS -bentvE test_files/text_long.txt
+SUCCESS -bentvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bentTE test_files/text1.txt
+SUCCESS -bentTE test_files/text2.txt
+SUCCESS -bentTE test_files/text3.txt
+SUCCESS -bentTE test_files/text4_hard.txt
+SUCCESS -bentTE test_files/text6_firstEmpty.txt
+SUCCESS -bentTE test_files/text7.txt
+SUCCESS -bentTE test_files/text_long.txt
+SUCCESS -bentTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benvTE test_files/text1.txt
+SUCCESS -benvTE test_files/text2.txt
+SUCCESS -benvTE test_files/text3.txt
+SUCCESS -benvTE test_files/text4_hard.txt
+SUCCESS -benvTE test_files/text6_firstEmpty.txt
+SUCCESS -benvTE test_files/text7.txt
+SUCCESS -benvTE test_files/text_long.txt
+SUCCESS -benvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bestvT test_files/text1.txt
+SUCCESS -bestvT test_files/text2.txt
+SUCCESS -bestvT test_files/text3.txt
+SUCCESS -bestvT test_files/text4_hard.txt
+SUCCESS -bestvT test_files/text6_firstEmpty.txt
+SUCCESS -bestvT test_files/text7.txt
+SUCCESS -bestvT test_files/text_long.txt
+SUCCESS -bestvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bestvE test_files/text1.txt
+SUCCESS -bestvE test_files/text2.txt
+SUCCESS -bestvE test_files/text3.txt
+SUCCESS -bestvE test_files/text4_hard.txt
+SUCCESS -bestvE test_files/text6_firstEmpty.txt
+SUCCESS -bestvE test_files/text7.txt
+SUCCESS -bestvE test_files/text_long.txt
+SUCCESS -bestvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bestTE test_files/text1.txt
+SUCCESS -bestTE test_files/text2.txt
+SUCCESS -bestTE test_files/text3.txt
+SUCCESS -bestTE test_files/text4_hard.txt
+SUCCESS -bestTE test_files/text6_firstEmpty.txt
+SUCCESS -bestTE test_files/text7.txt
+SUCCESS -bestTE test_files/text_long.txt
+SUCCESS -bestTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -besvTE test_files/text1.txt
+SUCCESS -besvTE test_files/text2.txt
+SUCCESS -besvTE test_files/text3.txt
+SUCCESS -besvTE test_files/text4_hard.txt
+SUCCESS -besvTE test_files/text6_firstEmpty.txt
+SUCCESS -besvTE test_files/text7.txt
+SUCCESS -besvTE test_files/text_long.txt
+SUCCESS -besvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -betvTE test_files/text1.txt
+SUCCESS -betvTE test_files/text2.txt
+SUCCESS -betvTE test_files/text3.txt
+SUCCESS -betvTE test_files/text4_hard.txt
+SUCCESS -betvTE test_files/text6_firstEmpty.txt
+SUCCESS -betvTE test_files/text7.txt
+SUCCESS -betvTE test_files/text_long.txt
+SUCCESS -betvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnstvT test_files/text1.txt
+SUCCESS -bnstvT test_files/text2.txt
+SUCCESS -bnstvT test_files/text3.txt
+SUCCESS -bnstvT test_files/text4_hard.txt
+SUCCESS -bnstvT test_files/text6_firstEmpty.txt
+SUCCESS -bnstvT test_files/text7.txt
+SUCCESS -bnstvT test_files/text_long.txt
+SUCCESS -bnstvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnstvE test_files/text1.txt
+SUCCESS -bnstvE test_files/text2.txt
+SUCCESS -bnstvE test_files/text3.txt
+SUCCESS -bnstvE test_files/text4_hard.txt
+SUCCESS -bnstvE test_files/text6_firstEmpty.txt
+SUCCESS -bnstvE test_files/text7.txt
+SUCCESS -bnstvE test_files/text_long.txt
+SUCCESS -bnstvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnstTE test_files/text1.txt
+SUCCESS -bnstTE test_files/text2.txt
+SUCCESS -bnstTE test_files/text3.txt
+SUCCESS -bnstTE test_files/text4_hard.txt
+SUCCESS -bnstTE test_files/text6_firstEmpty.txt
+SUCCESS -bnstTE test_files/text7.txt
+SUCCESS -bnstTE test_files/text_long.txt
+SUCCESS -bnstTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnsvTE test_files/text1.txt
+SUCCESS -bnsvTE test_files/text2.txt
+SUCCESS -bnsvTE test_files/text3.txt
+SUCCESS -bnsvTE test_files/text4_hard.txt
+SUCCESS -bnsvTE test_files/text6_firstEmpty.txt
+SUCCESS -bnsvTE test_files/text7.txt
+SUCCESS -bnsvTE test_files/text_long.txt
+SUCCESS -bnsvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bntvTE test_files/text1.txt
+SUCCESS -bntvTE test_files/text2.txt
+SUCCESS -bntvTE test_files/text3.txt
+SUCCESS -bntvTE test_files/text4_hard.txt
+SUCCESS -bntvTE test_files/text6_firstEmpty.txt
+SUCCESS -bntvTE test_files/text7.txt
+SUCCESS -bntvTE test_files/text_long.txt
+SUCCESS -bntvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bstvTE test_files/text1.txt
+SUCCESS -bstvTE test_files/text2.txt
+SUCCESS -bstvTE test_files/text3.txt
+SUCCESS -bstvTE test_files/text4_hard.txt
+SUCCESS -bstvTE test_files/text6_firstEmpty.txt
+SUCCESS -bstvTE test_files/text7.txt
+SUCCESS -bstvTE test_files/text_long.txt
+SUCCESS -bstvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enstvT test_files/text1.txt
+SUCCESS -enstvT test_files/text2.txt
+SUCCESS -enstvT test_files/text3.txt
+SUCCESS -enstvT test_files/text4_hard.txt
+SUCCESS -enstvT test_files/text6_firstEmpty.txt
+SUCCESS -enstvT test_files/text7.txt
+SUCCESS -enstvT test_files/text_long.txt
+SUCCESS -enstvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enstvE test_files/text1.txt
+SUCCESS -enstvE test_files/text2.txt
+SUCCESS -enstvE test_files/text3.txt
+SUCCESS -enstvE test_files/text4_hard.txt
+SUCCESS -enstvE test_files/text6_firstEmpty.txt
+SUCCESS -enstvE test_files/text7.txt
+SUCCESS -enstvE test_files/text_long.txt
+SUCCESS -enstvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enstTE test_files/text1.txt
+SUCCESS -enstTE test_files/text2.txt
+SUCCESS -enstTE test_files/text3.txt
+SUCCESS -enstTE test_files/text4_hard.txt
+SUCCESS -enstTE test_files/text6_firstEmpty.txt
+SUCCESS -enstTE test_files/text7.txt
+SUCCESS -enstTE test_files/text_long.txt
+SUCCESS -enstTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -ensvTE test_files/text1.txt
+SUCCESS -ensvTE test_files/text2.txt
+SUCCESS -ensvTE test_files/text3.txt
+SUCCESS -ensvTE test_files/text4_hard.txt
+SUCCESS -ensvTE test_files/text6_firstEmpty.txt
+SUCCESS -ensvTE test_files/text7.txt
+SUCCESS -ensvTE test_files/text_long.txt
+SUCCESS -ensvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -entvTE test_files/text1.txt
+SUCCESS -entvTE test_files/text2.txt
+SUCCESS -entvTE test_files/text3.txt
+SUCCESS -entvTE test_files/text4_hard.txt
+SUCCESS -entvTE test_files/text6_firstEmpty.txt
+SUCCESS -entvTE test_files/text7.txt
+SUCCESS -entvTE test_files/text_long.txt
+SUCCESS -entvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -estvTE test_files/text1.txt
+SUCCESS -estvTE test_files/text2.txt
+SUCCESS -estvTE test_files/text3.txt
+SUCCESS -estvTE test_files/text4_hard.txt
+SUCCESS -estvTE test_files/text6_firstEmpty.txt
+SUCCESS -estvTE test_files/text7.txt
+SUCCESS -estvTE test_files/text_long.txt
+SUCCESS -estvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -nstvTE test_files/text1.txt
+SUCCESS -nstvTE test_files/text2.txt
+SUCCESS -nstvTE test_files/text3.txt
+SUCCESS -nstvTE test_files/text4_hard.txt
+SUCCESS -nstvTE test_files/text6_firstEmpty.txt
+SUCCESS -nstvTE test_files/text7.txt
+SUCCESS -nstvTE test_files/text_long.txt
+SUCCESS -nstvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benstvT test_files/text1.txt
+SUCCESS -benstvT test_files/text2.txt
+SUCCESS -benstvT test_files/text3.txt
+SUCCESS -benstvT test_files/text4_hard.txt
+SUCCESS -benstvT test_files/text6_firstEmpty.txt
+SUCCESS -benstvT test_files/text7.txt
+SUCCESS -benstvT test_files/text_long.txt
+SUCCESS -benstvT test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benstvE test_files/text1.txt
+SUCCESS -benstvE test_files/text2.txt
+SUCCESS -benstvE test_files/text3.txt
+SUCCESS -benstvE test_files/text4_hard.txt
+SUCCESS -benstvE test_files/text6_firstEmpty.txt
+SUCCESS -benstvE test_files/text7.txt
+SUCCESS -benstvE test_files/text_long.txt
+SUCCESS -benstvE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benstTE test_files/text1.txt
+SUCCESS -benstTE test_files/text2.txt
+SUCCESS -benstTE test_files/text3.txt
+SUCCESS -benstTE test_files/text4_hard.txt
+SUCCESS -benstTE test_files/text6_firstEmpty.txt
+SUCCESS -benstTE test_files/text7.txt
+SUCCESS -benstTE test_files/text_long.txt
+SUCCESS -benstTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bensvTE test_files/text1.txt
+SUCCESS -bensvTE test_files/text2.txt
+SUCCESS -bensvTE test_files/text3.txt
+SUCCESS -bensvTE test_files/text4_hard.txt
+SUCCESS -bensvTE test_files/text6_firstEmpty.txt
+SUCCESS -bensvTE test_files/text7.txt
+SUCCESS -bensvTE test_files/text_long.txt
+SUCCESS -bensvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bentvTE test_files/text1.txt
+SUCCESS -bentvTE test_files/text2.txt
+SUCCESS -bentvTE test_files/text3.txt
+SUCCESS -bentvTE test_files/text4_hard.txt
+SUCCESS -bentvTE test_files/text6_firstEmpty.txt
+SUCCESS -bentvTE test_files/text7.txt
+SUCCESS -bentvTE test_files/text_long.txt
+SUCCESS -bentvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bestvTE test_files/text1.txt
+SUCCESS -bestvTE test_files/text2.txt
+SUCCESS -bestvTE test_files/text3.txt
+SUCCESS -bestvTE test_files/text4_hard.txt
+SUCCESS -bestvTE test_files/text6_firstEmpty.txt
+SUCCESS -bestvTE test_files/text7.txt
+SUCCESS -bestvTE test_files/text_long.txt
+SUCCESS -bestvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -bnstvTE test_files/text1.txt
+SUCCESS -bnstvTE test_files/text2.txt
+SUCCESS -bnstvTE test_files/text3.txt
+SUCCESS -bnstvTE test_files/text4_hard.txt
+SUCCESS -bnstvTE test_files/text6_firstEmpty.txt
+SUCCESS -bnstvTE test_files/text7.txt
+SUCCESS -bnstvTE test_files/text_long.txt
+SUCCESS -bnstvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -enstvTE test_files/text1.txt
+SUCCESS -enstvTE test_files/text2.txt
+SUCCESS -enstvTE test_files/text3.txt
+SUCCESS -enstvTE test_files/text4_hard.txt
+SUCCESS -enstvTE test_files/text6_firstEmpty.txt
+SUCCESS -enstvTE test_files/text7.txt
+SUCCESS -enstvTE test_files/text_long.txt
+SUCCESS -enstvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS -benstvTE test_files/text1.txt
+SUCCESS -benstvTE test_files/text2.txt
+SUCCESS -benstvTE test_files/text3.txt
+SUCCESS -benstvTE test_files/text4_hard.txt
+SUCCESS -benstvTE test_files/text6_firstEmpty.txt
+SUCCESS -benstvTE test_files/text7.txt
+SUCCESS -benstvTE test_files/text_long.txt
+SUCCESS -benstvTE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS --number test_files/text1.txt
+SUCCESS --number test_files/text2.txt
+SUCCESS --number test_files/text3.txt
+SUCCESS --number test_files/text4_hard.txt
+SUCCESS --number test_files/text6_firstEmpty.txt
+SUCCESS --number test_files/text7.txt
+SUCCESS --number test_files/text_long.txt
+SUCCESS --number test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS --number-nonblank test_files/text1.txt
+SUCCESS --number-nonblank test_files/text2.txt
+SUCCESS --number-nonblank test_files/text3.txt
+SUCCESS --number-nonblank test_files/text4_hard.txt
+SUCCESS --number-nonblank test_files/text6_firstEmpty.txt
+SUCCESS --number-nonblank test_files/text7.txt
+SUCCESS --number-nonblank test_files/text_long.txt
+SUCCESS --number-nonblank test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt
+SUCCESS --number --number-nonblank -stE test_files/text1.txt
+SUCCESS --number --number-nonblank -stE test_files/text2.txt
+SUCCESS --number --number-nonblank -stE test_files/text3.txt
+SUCCESS --number --number-nonblank -stE test_files/text4_hard.txt
+SUCCESS --number --number-nonblank -stE test_files/text6_firstEmpty.txt
+SUCCESS --number --number-nonblank -stE test_files/text7.txt
+SUCCESS --number --number-nonblank -stE test_files/text_long.txt
+SUCCESS --number --number-nonblank -stE test_files/text1.txt test_files/text2.txt test_files/text3.txt test_files/text4_hard.txt test_files/text6_firstEmpty.txt test_files/text7.txt test_files/text_long.txt

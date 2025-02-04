@@ -1,0 +1,5 @@
+Final test file.
+This file is used to check edge cases.
+It includes empty lines:
+
+And a line with only whitespace.    
