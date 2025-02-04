@@ -1,6 +1,0 @@
-
-
-Another test file.
-This one has different content.
-It also includes some numbers: 12345
-And some special characters: !@#$%^&*()
